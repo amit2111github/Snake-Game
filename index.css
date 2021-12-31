@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+  position: relative;
+  /* align-items: center; */
+}
