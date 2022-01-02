@@ -4,9 +4,14 @@ body {
 }
 
 .box {
+  margin-top: 20px;
   width: 500px;
   height: 500px;
   border: 1px solid black;
   position: relative;
-  /* align-items: center; */
+}
+.buttons {
+  margin-top: 20px;
+  position: relative;
+  display: flex;
 }
